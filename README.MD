@@ -7,3 +7,5 @@
 * another merge strategy
 * development is going on
 * development is completed
+### squash
+* started development
