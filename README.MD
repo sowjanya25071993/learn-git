@@ -5,3 +5,4 @@
 * developer spends some time and pushes to git lot of time as part of development
 ### rebase
 * another merge strategy
+* development is going on
