@@ -11,3 +11,7 @@
 * started development
 * adding more
 * development is completed
+### conflict
+* this is developer-1 
+* i want to keep this line of code
+* this is again from developer-1 adding some code
